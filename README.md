@@ -23,4 +23,4 @@ End-to-end automation testing project using Cypress and JavaScript.
 - Advanced Selenium
  Connect with Me
 - GitHub: https://github.com/shady-55
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/shady-mohamed-a7b024357/
