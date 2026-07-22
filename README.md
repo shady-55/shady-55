@@ -1,4 +1,4 @@
- Hi, I'm Shady 
+ 
  QA Automation Engineer
 I'm passionate about software testing and automation. I enjoy building reliable test automation frameworks and improving software quality.
  Skills
